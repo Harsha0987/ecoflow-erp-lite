@@ -1,0 +1,19 @@
+.dashboard-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .summary {
+    margin-bottom: 20px;
+  }
+  
+  .navigation-links {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .navigation-button {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
